@@ -6,7 +6,7 @@
 
 # screenshot
 ## 源代码示例
-![](https://github.com/LoseNine/Babel-Confusion/tree/master/img/1.png)
+![](https://github.com/LoseNine/Babel-Confusion/blob/master/img/1.PNG)
 
 ## 混淆后
-![](https://github.com/LoseNine/Babel-Confusion/tree/master/img/2.png)
+![](https://github.com/LoseNine/Babel-Confusion/blob/master/img/2.PNG)
